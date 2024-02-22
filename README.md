@@ -19,3 +19,9 @@ Thread 0 is running
 Thread 2 is running
 Thread 0 is running
 ```
+
+The meanings of command-line arguments are:
+- -n <num_threads>: number of threads to run simultaneously
+- -t <time_wait>: duration of "busy" period
+- -s <policies>: scheduling policy for each thread, SCHED_FIFO or SCHED_NORMAL.
+- -p <priorities>: real-time thread priority for real-time threads
