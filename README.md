@@ -1,4 +1,4 @@
-# Scheduling Policy Demonstration
+# Linux Scheduling Policy Demonstration
 
 ### Description
 Implement a program on Linux which lets a user run multiple threads with different scheduling policies and show the working status of each thread.
